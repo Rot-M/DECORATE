@@ -1,0 +1,2 @@
+Statistics=1066042.000, p=0.001
+Different distribution (reject H0) with alpha=0.050
