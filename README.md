@@ -1,6 +1,6 @@
 # DECORATE
 
-1. This code is an implementation of DECORATE algorithm - [decorate.py]{https://github.com/Rot-M/DECORATE/blob/master/decorate.py)
+1. This code is an implementation of DECORATE algorithm - [decorate.py](https://github.com/Rot-M/DECORATE/blob/master/decorate.py)
 2. Comparison between GBM algorithm and DECORATE algorithm was performed -  implementation of GBM exists in gbm.py
 3. Mann Whitney U Test was perofmed between DECORATE and GBM-statistic_test.py
 4. Performed prediction for which algorithm is better according to meta learning features - meta_learner.py
