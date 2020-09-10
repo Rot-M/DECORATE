@@ -9,11 +9,13 @@ The algorithms are run by running [main.py](https://github.com/Rot-M/DECORATE/bl
 
 Statistic test and Meta Learning process are running from their files sperately.
 
-**common.py invludes measurements calculations and is needed for all files beside the statistic test.
 
-All algorithm running results exists in folder: Reports and Results
+**[common.py](https://github.com/Rot-M/DECORATE/blob/master/common.py) invludes measurements calculations and is needed for all files beside the statistic test.
 
-Final report exists also in folder: Reports and Results
+All algorithm running results exists in folder: [Reports and Results](https://github.com/Rot-M/DECORATE/tree/master/Reports%20and%20Results)
+
+Final reports ([results](https://github.com/Rot-M/DECORATE/blob/master/Reports%20and%20Results/tests_results.csv) and [document](https://github.com/Rot-M/DECORATE/blob/master/Reports%20and%20Results/DECORATE_Report.pdf)) exist also in folder: [Reports and Results](https://github.com/Rot-M/DECORATE/tree/master/Reports%20and%20Results)
+
 
 DECORATE hyper parmaters are defined in [decorate.py](https://github.com/Rot-M/DECORATE/blob/master/decorate.py):
 Imax, C_Size, R_Size
